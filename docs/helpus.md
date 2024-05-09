@@ -58,6 +58,9 @@
 
 ## 帮助完善Wiki
 
+>[!note]
+> + 特别感谢@vosglenpurink帮忙完善wiki
+
 > Markdown语言
 
 你需要稍微了解[Markdown](https://markdown.com.cn/cheat-sheet.html#%E6%80%BB%E8%A7%88)语法，以方便编写Wiki。

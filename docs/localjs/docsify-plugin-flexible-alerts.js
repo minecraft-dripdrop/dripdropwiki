@@ -28,7 +28,7 @@
             className: "note"
         },
         tip: {
-            label: "技巧",
+            label: "说明",
             icon: "icon-tip",
             className: "tip"
         },

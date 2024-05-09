@@ -1,20 +1,34 @@
-## 下载Java
+## ✅ Java版本选择
 
-使用**官方启动器**的玩家<font color=red><b>不需要额外下载Java</b></font>，因为自1.17版本开始，官方启动器就已经内置了Java环境。
+| Minecraft版本(Java版)                      | 最低启动版本                  | 推荐安装的Java版本              |
+| :------------------------- | :------------------------- | :--------------------- |
+| 1.7- |8 | 8              |
+| 1.8~1.15 |8 | 11                 |
+| 1.16 |11 | 16              |
+| 1.17~1.19 |13 | 17      |
+| 1.20 |17 | 17     |
+| 1.21(即将到来) |21 | 未知       |
 
-对于不使用官方启动器的玩家而言，我们推荐从以下来源下载Java安装包：
+## ⬇️ 下载Java
 
-+ [<font color=blue>Oracle JDK 17（只有Java 17）</font>](https://www.oracle.com/java/technologies/javase-downloads.html)
-+ [<font color=blue>Zulu JDK（从Java 8到最新版本都有）</font>](https://www.azul.com/downloads/?package=jdk#download-openjdk)
-+ [<font color=blue>Microsoft OpenJDK（从Java 8到最新版本都有）</font>](https://docs.microsoft.com/zh-cn/java/openjdk/download)
+> [!tip]
+> 以下情况你可以跳过这一步：
+> + 你已经安装了对应版本的Java
+> + 你决定使用官方启动器(内置Java环境所以不用安装)进行游戏
+
+对于不使用官方启动器的玩家而言，我们推荐从以下来源(点击跳转链接)下载Java安装包：
+
++ [<font color=green>Oracle JDK 17（只有Java 17）</font>](https://www.oracle.com/java/technologies/javase-downloads.html)
++ [<font color=green>Zulu JDK（从Java 8到最新版本都有）</font>](https://www.azul.com/downloads/?package=jdk#download-openjdk)
++ [<font color=green>Microsoft OpenJDK（从Java 8到最新版本都有）</font>](https://docs.microsoft.com/zh-cn/java/openjdk/download)
+
+
+
+## 🔧 安装Java
 
 > [!warning] 
-> 强烈不建议**通过百度**自行搜索、下载和使用来源不明的Java安装包，此举可能会为你的计算机带来安全风险。
-
-请注意，<font color=red>除非你是Mojang开发团队成员，否则应当使用当前游戏版本所支持的Java版本</font>。既不要使用过于老旧的版本，也不需要使用太新的版本（官方都还没适配支持），否则可能会无法正常启动游戏。
-
-## 安装Java
-
+> + 强烈不建议在非oracle官网的其他网站上、下载和使用来源不明的Java安装包，此举可能会为你的计算机带来安全风险。
+> + 请注意，<font color=red>请尽量使用当前游戏版本所要求的Java版本</font>。既不要使用过于老旧的版本，也不需要使用太新的版本（官方都还没适配支持），否则可能会无法正常启动游戏。
 + **Windows平台玩家**
 
 从群文件下载得到 `.exe` 格式的文件之后，双击打开它（如果提示安全警告就选择 **是**）。
@@ -37,7 +51,7 @@ Mac OS平台安装 `.dmg` 格式文件的步骤和Windows用户类似，这里�
 
 ~~Linux用户不会装JDK？wget指令也不会用？Java环境都不会配？那你只是纯粹拿Linux装逼的吗？~~
 
-## Java环境配置
+## ⚙️ Java环境配置
 
 > [!tip]
 > 一般来说，系统在安装Java时会自动配置好Java环境。如果玩家在安装好Java并准备进行游戏时却提示找不到Java，请参考下面的内容。
