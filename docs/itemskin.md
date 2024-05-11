@@ -56,7 +56,7 @@
 
 或者在qq群286338133的群文件中 `★【服务器文档表格】` 下载 `皮肤枪械抽奖概率`
 
-![皮肤概率](pics/itemskin/skin_chance.png)
+<iframe src="excel/皮肤枪械抽奖概率.htm" width="100%" height="500"></iframe>
 
 ## 👕 装备与拆卸皮肤
 
