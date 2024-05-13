@@ -1,5 +1,7 @@
 * <font color=green>友情链接</font>
-  * [在线服务器地图](http://map.dripdropminecraft.pub/)
+  * [在线服务器地图](http://map.dripdrop.wiki/)
+  * [封神榜](http://ban.dripdrop.wiki)
+  * [游戏成就展示](http://stats.dripdrop.wiki)
   * [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki)
   * [neverlag的BiliBili空间](https://space.bilibili.com/17971507)
   * [MC百科找服玩](https://play.mcmod.cn/sv20187004.html)
