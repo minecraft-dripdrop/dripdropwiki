@@ -1,5 +1,11 @@
 > 欢迎来到 **"DripDrop·Minecraft服务器"** 的 **Wiki** 页面！
 
+服务器IP: 
+
+    dripdrop.games
+
+![实时人数](https://api.loohpjames.com/serverbanner.png?ip=dripdrop.games)
+
 >[!warning]
 > 服务器会进行内容更新，但Wiki无法保证实时同步最新内容，游玩时请以游戏内实际内容为准。 
 
@@ -8,3 +14,5 @@
 > 同时你可以在某个页面使用`Ctrl+F`打开网页自带的搜索工具来查找内容。
 
 ![title](pics/title.gif)
+
+

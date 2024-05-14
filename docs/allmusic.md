@@ -1,9 +1,9 @@
-##  ⬇ 下载安装
+##  ⬇️ 下载安装 :id=download-and-install
 
 > [!warning]
 > 需要安装Allmusic这个点歌mod，你才能在游戏里听见歌曲声音
 
-### 下载mod
+### 下载mod :id=download
 
 > [!note]
 > 如果你已经使用的是群文件里整合的客户端，那么它里面已经包含点歌Mod，你无需自己安装
@@ -20,7 +20,7 @@
 
 ![下载点歌mod](pics/allmusic/download.png)
 
-### 安装mod
+### 安装mod :id=install
 1. **在安装mod之前请先确认是否安装了 `fabric` 或者 `forge`**
 
 > [!note]
@@ -48,9 +48,9 @@
 
 ![选择带fabric的版本启动HMCL](pics/startgame2.png)
 
-## 🔎 搜索点歌
+## 🔎 搜索点歌 :id=search-music
 
-### 游戏内搜索
+### 游戏内搜索 :id=search-music-ingame
 
 输入指令 `/music search <歌名>` 例子: `/music search 小星星`
 
@@ -60,7 +60,7 @@
 
 ![选择歌曲](pics/allmusic/musicselect.png)
 
-### 网易云APP内复制链接
+### 网易云APP内复制链接 :id=copy-url-from-netease-app
 
 选择你喜欢的歌 **右键**-**复制链接**
 
@@ -72,9 +72,9 @@
 
 ![复制链接在这里](pics/allmusic/musiccopy.png)
 
-## ⚙️ 显示设置
+## ⚙️ 显示设置 :id=display-setting
 
-### 默认显示
+### 默认显示 :id=default-setting
 
 默认将显示在左下角，只显示歌词
 
@@ -82,7 +82,8 @@
 
 如果你调整过显示设置，你可以使用`/music hud reset`重置为默认显示
 
-### 开关其他显示
+### 开关其他显示 :id=setting-display-command
+
 > 指令: `/music hud enable [lyric|info|list|pic]`
 
 + `/music hud enable lyric` 可以控制歌词(lyric)的开关
@@ -97,7 +98,7 @@
 
 + **`/music hud enable` 控制所有显示的开关**
 
-### 调整显示位置
+### 调整显示位置 :id=adjust-display-position
 
 输入`/music hud [lyric|info|list|pic] <x> <y>` 设置歌词位置
 
@@ -111,7 +112,7 @@
 > [!tip]
 > 默认位置: lyric(2,76) | info(默认关闭) | list(74,20) | pic(2,2)
 
-## ❌ 关闭音乐
+## ❌ 关闭音乐 :id=close-music
 
 > 不想听这一首歌(比如你很讨厌别人放某个流行的鬼畜歌曲) 
 + 使用`/music stop`不听这首歌
@@ -122,15 +123,15 @@
 + 使用 `/music nomusic` 来禁用点歌功能(可以点一首歌重新开启功能)
 + 直接在mods文件夹里删除allmusic这个mod
 
-##  ❓ 常见问题
+## ❓ 常见问题 :id=allmusic-common-question
 
-### 点歌没有声音
+### 点歌没有声音 :id=no-sound
 
 + 你是否安装了点歌mod？需要安装Allmusic这个mod才能听到歌
 + 装了mod的是否搞错了Fabric和Forge版本？是否安装了fabric及fabricAPI？
 + 游戏里音符盒的声音是否被关闭了？
 
-### VIP歌|点不了
+### VIP歌|点不了 :id=no-vip
 
 + 服务器的网易云账号已经开通了VIP，如果没法点歌说明这首歌是单独收费或者没有版权
 + 比如周杰伦的大部分歌网易云都没有版权，无法点播

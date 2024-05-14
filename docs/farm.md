@@ -1,4 +1,4 @@
-## 🪴 开启种田之旅
+## 🪴 开启种田之旅 :id=start-farm
 
 1. 输入`/warp 喵喵村` 前往喵喵村寻找到NPC **阿瓜**
 
@@ -40,12 +40,12 @@
 
 9. 静静等待农作物的生长即可
 
-## 🍆 农作物
+## 🍆 农作物 :id=farm-crops
 
 > [!warning]
 > 改版后，农作物可以种在原版的耕地上，但一个区块最多种81个星露谷作物
 
-### 作物分类
+### 作物分类 :id=crops-category
 
 <!-- tabs:start -->
 
@@ -123,7 +123,7 @@
 
 <!-- tabs:end -->
 
-### 作物种子
+### 作物种子 :id=crops-seeds
 
 + 用星星币与 **NPC星币商** 兑换
 
@@ -131,19 +131,19 @@
 
 ![合成种子](pics/farm/zhongzi.png)
 
-## 💧 浇水
+## 💧 浇水 :id=water
 
 > [!warning]
 > + 改版后只需要保持耕地湿润即可
 > + 旧版的水壶、洒水器可以在喵喵村兑换回星星币
 
-## 🧪 肥料
+## 🧪 肥料 :id=fertilizer
 
 >[!tip]
 > 肥料需要在播种前就在耕地里使用  
 > 可以手里拿着肥料探测器右键耕地来查看肥料剩余次数
 
-### 加速肥料
+### 加速肥料 :id=fertilizer-speed
 
 + 有概率一次生长2个阶段
 
@@ -172,7 +172,7 @@
 
 <!-- tabs:end -->
 
-### 保湿肥料
+### 保湿肥料 :id=fertilizer-water
 
 + 有概率生长过后不消耗水分
 
@@ -201,7 +201,7 @@
 
 <!-- tabs:end -->
 
-### 品质肥料
+### 品质肥料 :id=fertilizer-quality
 
 + 增加收货金星作物的几率
 
@@ -230,7 +230,7 @@
 
 <!-- tabs:end -->
 
-### 增产肥料
+### 增产肥料 :id=fertilizer-quantity
 
 + 增加收获时获得的农作物数量
 
@@ -259,7 +259,7 @@
 
 <!-- tabs:end -->
 
-### 巨大化魔药
+### 巨大化魔药 :id=fertilizer-gigantic
 
 + 更高概率获得巨大化农作物
 
@@ -288,7 +288,7 @@
 
 <!-- tabs:end -->
 
-### 肥料探测仪
+### 肥料探测仪 :id=soil-surveyor
 
 <img src="pics/farm/soil_surveyor.png" style="width:10%" alt="肥料探测仪"/>
 
@@ -298,14 +298,14 @@
 
 
 
-## 🎃 乌鸦与稻草人
+## 🎃 乌鸦与稻草人 :id=crow-and-scarecrow
 
-### 乌鸦
+### 乌鸦 :id=crow
 乌鸦(只是动画效果)有0.5%的几率生成，会吃掉农作物
 
 ![乌鸦](pics/farm/wuya.png)
 
-### 稻草人
+### 稻草人 :id=scarecrow
 
 你可以放置稻草人来驱赶乌鸦，稻草人可以保护当前区块的农作物
 
@@ -313,7 +313,7 @@
 
 ![区块](pics/farm/qukuai.png)
 
-## 💰 出售作物
+## 💰 出售作物 :id=sell-crops
 
 你可以在 **农商店** 里右键NPC **农商** 出售作物
 

@@ -1,10 +1,10 @@
-## ✅ 不需要专用客户端
+## ✅ 不需要专用客户端 :id=no-need-dedicated-cilent
 > [!tip]
 > + 你可以使用符合当前服务器版本的任意客户端加入服务器；
 > + 只需要输入IP `dripdrop.games`即可连入。
 
 
-## ⭐ 推荐客户端
+## ⭐ 推荐客户端 :id=recommended-client
 
 > [!warning]
 > 如果你没有客户端，或者客户端并没有什么优化mod，我 **非常建议** 你使用“DripDrop简单整合”客户端。
@@ -17,7 +17,7 @@ Minecraft高版本的优化并不够好，很多人在高版本只有40-50FPS，
 
 ![FPS提升](pics/download/fps.png)
 
-## ⬇️ 下载并解压客户端
+## ⬇️ 下载并解压客户端 :id=download-and-unzip
 
 **1. 打开[QQ群聊](https://jq.qq.com/?_wv=1027&k=VoMxW5eI)(286338133)，点击“文件”**
 
@@ -42,7 +42,7 @@ Minecraft高版本的优化并不够好，很多人在高版本只有40-50FPS，
 
 ![自动下载文件](pics/download/5.png)
 
-## 🕹️ 登录正版账号
+## 🕹️ 登录正版账号 :id=login-online-account
 
 **1.点击"没有游戏账户"**
 

@@ -1,16 +1,16 @@
-## ⚓ 地标传送
+## ⚓ 地标传送 :id=waystone
 点击这种野外的地标，即可激活，激活后可花费硬币在任意两个信标之间传送
 
 ![地标](pics/boss/rpg_waystone.png)
 
 ![地标传送](pics/boss/rpg_waystone1.png)
 
-## 🗺️ 世界地图
+## 🗺️ 世界地图 :id=dynmap
 点击查看[RPG服的在线网页地图](http://map3.dripdrop.wiki)
 
 ![rpg地图](pics/boss/rpg_map.jpg)
 
-## 👿 BOSS介绍
+## 👿 BOSS介绍 :id=boss
 > [!tip]
 > BOSS讨伐战仅需对BOSS造成伤害即可在BOSS被击败后随机获得战利品(~~正义群殴~~)，期间不可前往其他世界，玩家死亡亦会重置其造成伤害
  
@@ -89,14 +89,14 @@
 
 </details>
 
-## 🐤 小怪介绍
+## 🐤 小怪介绍 :id=monsters
 
 ### 小怪简介：
 
 <iframe src="excel/基础生物.htm" width="100%" height="500"></iframe>
 
 
-## 🩳 副本装备
+## 🩳 副本装备 :id=rpgitems
 
 输入指令`/ia`查看rpg装备
 

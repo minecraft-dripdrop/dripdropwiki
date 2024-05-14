@@ -11,7 +11,7 @@
 
 #### ©2020 - 2024 DripDrop Minecraft Server
 
-[开启](README.md)
+[开启](homepage.md)
 
 <!-- background color -->
 

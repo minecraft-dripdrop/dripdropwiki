@@ -1,7 +1,7 @@
 > [!note]
 > 破坏查询是用Coreprotect插件，一般被称为COI插件，可以记录方块破坏、生物击杀等情况。
 
-## 查询方块
+## 查询方块 :id=coi-block
 
 1. **查询不见的方块**
 
@@ -43,7 +43,7 @@
 
     ![关闭查询模式后的提示](pics/coiclose.png)
 
-## 查询生物
+## 查询生物 :id=coi-entities
 
 1. **家里的 村民 莫名其妙的消失了**
 
@@ -55,7 +55,7 @@
 
     发现是玩家 vx0828 在 8.42天 之前，杀了一只 村民。
 
-## 查询特定方块
+## 查询特定方块 :id=coi-special-block
 
 1. **查询有没有人用TNT炸我的家**
 
@@ -65,12 +65,12 @@
 
     输入指令 `/co lookup action:-block block:shulker_box radius:<查询半径> time:<查询时间>`。
 
-## 更多查询技巧
+## 更多查询技巧 :id=more-coi-command
 
 请查看[官方文档](https://docs.coreprotect.net/)
 
 
-## 区域回档
+## 区域回档 :id=coi-rollback
 
 > [!warning]
 > + 如果你的家被熊孩子破坏了，在15天内(coi记录保存时长)是可以对你家进行区域回档，但时间太久远则没办法找到破坏者，也无法复原。

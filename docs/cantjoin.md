@@ -1,17 +1,17 @@
-## 搜索指向关键词
+## 搜索指向关键词 :id=search-keyword
 > - 无法加入
 > - 搜索不到
 > - 进不来、进不去、进不了
 
-## 常见情形及解决方法
+## 常见情形及解决方法 :id=common-situations-and-solutions
 
-## ① 未知的主机+无法刷新出motd
-#### 问题描述
+## ① 未知的主机+无法刷新出motd :id=unknown-host-no-motd
+#### 问题描述 :id=unknown-host-no-motd-description
 在多人游戏界面无法刷出正确的motd信息，且在加入服务器后显示“未知的主机”。
 
 ![无法刷出motd](pics/nomotd.png)
 ![未知的主机](pics/unknown%20host.png)
-#### 解决方案
+#### 解决方案 :id=unknown-host-no-motd-solutions
 **A 检查IP是否正确，尝试用以下两个IP连接**
 
 + 主域名：`dripdrop.games`
@@ -40,13 +40,13 @@
 
 如果玩家使用了特定版本的PCL2启动器，可能会出现无法正常搜索和连接大部分**基于面板服**运营的服务器的问题，建议更换PCL2版本，或使用HMCL或者官方启动器。
 
-## ② 登录失败 : 无效会话(请尝试重启游戏及启动器) 
-#### 问题描述
+## ② 登录失败 : 无效会话(请尝试重启游戏及启动器) :id=invalid-session
+#### 问题描述 :id=invalid-session-description
 能刷新出外面的motd，但加入服务器后显示“无效会话”。
 
 ![有motd界面](pics/havemotd.png)
 ![无效会话](pics/nomojanglogin.png)
-#### 解决方案
+#### 解决方案 :id=invalid-session-solutions
 **A 确认自己是否正版登录**
 
 服务器有正版验证，需要正版登录后才能加入。
@@ -75,13 +75,13 @@
 > [!warning] 
 > 请先尝试上述几个解决方案，此方案只出现过一次，仅供参考！某玩家无法正常连接到XBOX进行正版验证，后通过更新网卡驱动解决。
 
-## ③ 身份验证异常
+## ③ 身份验证异常 :id=authentication-exception
 
-#### 问题描述
+#### 问题描述 :id=authentication-exception-description
 
 提示“身份验证失败”、“身份验证服务器宕机”或“身份验证服务器维护中”。表明玩家/本服主机与Mojang的验证服务器连接有异常。
 
-#### 解决方案
+#### 解决方案 :id=authentication-exception-solutions
 
 **A 等待几秒后尝试重新连接**
 
@@ -93,13 +93,13 @@
 
 如果有可靠的消息来源证实Mojang验证服务受到中国国家防火墙（GFW）干扰，那么只能使用科学上网手段进入游戏了。
 
-## ④ Out Of Memory客户端崩溃
+## ④ Out Of Memory客户端崩溃 :id=out-of-memory
 
-#### 问题描述
+#### 问题描述 :id=out-of-memory-description
 
 客户端提示“Out Of Memory”（内存溢出），这种情况通常是玩家没有给游戏分配足够的内存。
 
-#### 解决方案
+#### 解决方案 :id=out-of-memory-solutions
 
 **A 配置足够内存**
 
@@ -113,13 +113,13 @@
 
 如果你的电脑是亲戚朋友淘汰下来或者垃圾堆里淘来的32位老古董，建议趁早花钱享受64位的新世界。
 
-## ⑤ Internal Exception: java.net.SocketException: Connection reset
+## ⑤ Internal Exception: java.net.SocketException: Connection reset :id=internal-exception
 
-#### 问题描述
+#### 问题描述 :id=internal-exception-description
 
 客户端提示“Internal Exception: java.net.SocketException: Connection reset”（连接重置），这种情况通常是网络连接出问题，也可能是正版验证服务器无法连接上。
 
-#### 解决方案
+#### 解决方案 :id=internal-exception-solutions
 
 **A 等待几秒后重新尝试连接**
 

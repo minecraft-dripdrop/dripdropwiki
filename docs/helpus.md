@@ -16,7 +16,9 @@
 
 ## 帮忙监督
 
-+ 如果发现了可能存在的Bug，你可以通知QQ群`286338133`的管理员 `neverlag`。
++ 如果发现了普通的Bug，请反馈在[gitee](https://gitee.com/neverlag/drip-drop-server/issues)上。
+
++ 如果发现严重的漏洞bug(比如刷钱，刷物品)，请立刻通知QQ群`286338133`的管理员 `neverlag`。
 
 + 如果发现了熊孩子/外挂，请立刻通知QQ群`286338133`的管理员 `neverlag`。
 
@@ -25,6 +27,9 @@
 ## 帮忙制作拓展物品
 
 > Itemsadder插件
+
+>[!note]
+> + 特别感谢@Dangoburn帮忙制作拓展物品/模型/贴图
 
 你需要掌握材质包的结构，CustomModelData值，绘制像素图片，利用[Blockbench](https://www.blockbench.net/downloads)建模。
 
@@ -43,6 +48,9 @@
 ## 帮忙制作RPG怪物与有技能的武器
 
 > MythicMobs插件
+
+>[!note]
+> + 特别感谢@Sparkringcreepr帮忙制作rpg建筑/内容
 
 你需要阅读[MythicMobs的Wiki](https://mineplugin.org/MythicMobs)，
 

@@ -1,11 +1,16 @@
-* <font color=green>友情链接</font>
-  * [在线服务器地图](http://map.dripdropminecraft.pub/)
-  * [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki)
-  * [neverlag的BiliBili空间](https://space.bilibili.com/17971507)
-  * [MC百科找服玩](https://play.mcmod.cn/sv20187004.html)
-  * ~~[MCBBS宣传贴(已经寄了)](https://www.mcbbs.net/thread-1129320-1-1.html)~~
-  * [DripDrop的爱发电](https://afdian.net/@dripdrop)
-  * [HMCL启动器](http://ci.huangyuhui.net/job/HMCL/)
+* <font color=green>🌏 友情链接</font>
+  * [🔵 dripdrop服网页地图](http://map.dripdrop.wiki/)
+  * [🟦 new服网页地图](http://map2.dripdrop.wiki/)
+  * [🔶 rpg服网页地图](http://map3.dripdrop.wiki/)
+  * [🚫 服务器封禁名单](http://ban.dripdrop.wiki/)
+  * [⭐ 服务器数据排行榜](http://stats.dripdrop.wiki/)
+  * [📔 Minecraft中文维基](https://zh.minecraft.wiki/)
+  * [📺 neverlag的BiliBili空间](https://space.bilibili.com/17971507)
+  * [🔎 MC百科找服玩](https://play.mcmod.cn/sv20187004.html)
+  * [⚡ DripDrop的爱发电](https://afdian.net/@dripdrop)
+  * [🐛 Bug反馈](https://gitee.com/neverlag/drip-drop-server/issues)
+  <!-- * [HMCL启动器](http://ci.huangyuhui.net/job/HMCL/)
   * [PCL启动器](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
   * [Minecraft Heads](https://minecraft-heads.com/)
   * [NameMC](https://namemc.com/)
+  * ~~[MCBBS宣传贴(已经寄了)](https://www.mcbbs.net/thread-1129320-1-1.html)~~ -->

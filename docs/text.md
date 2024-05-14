@@ -1,21 +1,21 @@
 > [!tip]
 > 以下特殊文本基本可以用在任何地方，包括聊天、告示牌、铁砧改名、称号等等(除了有些插件的宠物命名不支持16进制颜色)
 
-## 🖌️ 传统颜色代码
+## 🖌️ 传统颜色代码 :id=tradtional-color
 
 + 输入`/colors`查看传统颜色代码
 + 例子: `&9&m测试文本`将显示为 ~<font color=#5454fb>测试文本</font>~
 
 ![传统颜色代码](pics/colors.png)
 
-## 🎨 十六进制颜色
+## 🎨 十六进制颜色 :id=hex-color
 
 + 输入`/hexcolors` 查看Hex Color(16进制颜色)
 + 例子: `{#964b00}测试文本`将显示为 <font color=#964b00>测试文本</font>
 
 ![16进制颜色](pics/color.png)
 
-## 🖍️ 渐变颜色
+## 🖍️ 渐变颜色 :id=gradient-color
 
 1. **简单渐变**
 
@@ -34,7 +34,7 @@
 
 ![渐变3次颜色](pics/text/gradient2.png)
 
-## 🌟 文字特效
+## 🌟 文字特效 :id=text-effect
 
 > [!tip]
 > + 每种特效都对应的一种颜色，比如`{#F0F000}`颜色表示采用抖动(Shaking)特效 
@@ -67,9 +67,9 @@
  | Outline|轮廓特效| {#F0F014}| `{#F0F014}Outline`|
 
 
-## 😃 emoji表情
+## 😃 emoji表情 :id=emoji
 
-### 表情书
+### 表情书 :id=emoji-book
 
 1. 输入`/emoji`打开emoji表情书
 
@@ -85,27 +85,27 @@
 
 4. 表情包实际上也是一种字体，可以在它前面使用颜色代码
 
-## 🍩 物品展示
+## 🍩 物品展示 :id=item-show
 
-### 展示手中物品
+### 展示手中物品 :id=item-show-hand
 
 + 在聊天栏里输入 `[i]` 即可展示手中的物品，玩家可以点击字来详细查看
 
 ![聊天展示物品](pics/text/chatitem.png)
 
-### 展示背包
+### 展示背包 :id=item-show-inventory
 
 + 在聊天栏里输入 `[inv]` 即可展示背包物品，玩家可以点击字来详细查看
 
 ![聊天展示背包](pics/text/chatinv.png)
 
-### 展示末影箱
+### 展示末影箱 :id=item-show-enderchest
 
 + 在聊天栏里输入 `[ender]` 即可展示末影箱，玩家可以点击字来详细查看
 
 ![聊天展示末影箱](pics/text/chatender.png)
 
-### 展示钱包
+### 展示钱包 :id=item-show-money
 
 + 在聊天栏里输入 `[money]` 即可展示钱包
 + 鼠标放在字上会显示玩家的硬币数
