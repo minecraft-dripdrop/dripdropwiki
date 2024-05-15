@@ -17,8 +17,6 @@
   <!-- <link rel="stylesheet" href="https://unpkg.com/docsify-vuepress-theme/dist/style.min.css" /> -->
   <!-- <link rel="stylesheet" href="https://unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css"> -->
   <!-- <link rel="stylesheet" href="localcss/docsify-gifcontrol.css"> -->
-  <!-- darkmod -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"/>
   <!-- 禁止浏览器缓存 -->
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
   
@@ -70,7 +68,7 @@
       auto2top: true,
       mergeNavbar: true,
       loadNavbar: true,
-      coverpage: 'coverpage.md',
+      coverpage: '_coverpage.md',
       loadSidebar: true,
       subMaxLevel: 2,
       auto2top: true,
@@ -166,10 +164,10 @@
   <!-- copy-code -->
   <script src="https://unpkg.com/docsify-copy-code@2"></script>
   <!-- GitTalk评论 -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-  <script src="https://unpkg.com/docsify-gitalk@1.0.0/dist/docsify-gitalk.min.js"></script>
+  <link rel="stylesheet" href="localcss/gitalk.css">
+  <script src="localjs/gitalk.min.js"></script>
+  <script src="localjs/gitalk2.min.js"></script>
+  <script src="localjs/docsify-gitalk.min.js"></script>
 </body>
 
 </html>

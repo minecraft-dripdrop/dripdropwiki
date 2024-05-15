@@ -1,3 +1,5 @@
+## 主页 :id=homepage
+
 > 欢迎来到 **"DripDrop·Minecraft服务器"** 的 **Wiki** 页面！
 
 服务器IP: 
