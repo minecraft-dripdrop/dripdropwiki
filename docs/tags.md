@@ -31,17 +31,17 @@
 
 ## ❓ 常见问题 :id=tags-common-question
 
-### 为什么吃不了称号面包？ #id=cant-eat-bread
+### 为什么吃不了称号面包？ :id=cant-eat-bread
 
 因为你饥饿值是满的，通俗来讲就是你不饿，没法吃东西
 
-### 为什么称号在切换服务器后失效了？ #id=invalid-tags
+### 为什么称号在切换服务器后失效了？ :id=invalid-tags
 
 1.称号的字符数量限制在128个内，超出这个长度无法保存在数据库中，颜色代码也要计算在内
 
 2.称号中含有空格,空格会导致称号保存在数据库中出错,请不要使用空格
 
-### 为什么称号无法在TAB中显示？ #id=cant-show-in-tablist
+### 为什么称号无法在TAB中显示？ :id=cant-show-in-tablist
 
 各式各样的称号会导致tab栏眼花缭乱，不美观，目前tab中只显示颜色
 
