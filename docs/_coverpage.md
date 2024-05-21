@@ -1,14 +1,17 @@
 ![logo](pics/logo/server-icon.svg ':size=5%')
 
-# DripDrop <small>1.20.1</small>
+
+![](pics/dripdrop.png)
+
 
 <!-- > Minecraft Server Wiki -->
 
-- 质朴简约
-- 温馨和谐
-- 有趣好玩
++ <font class="stroke">质朴简约</font>
++ <font class="stroke">温馨和谐</font>
++ <font class="stroke">有趣好玩</font>
 
-#### ©2020 - 2024 DripDrop Minecraft Server
+<!-- ©2020 - 2024 DripDrop Minecraft Server -->
+
 
 [开启](homepage.md)
 

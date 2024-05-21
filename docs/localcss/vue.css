@@ -504,8 +504,8 @@ section.cover.show {
   display: flex;
 }
 section.cover.has-mask .mask {
-  background-color: #fff;
-  opacity: 0.6;
+  background-color: #f8f7d2;
+  opacity: 0.2;
   position: absolute;
   top: 0;
   bottom: 0;
