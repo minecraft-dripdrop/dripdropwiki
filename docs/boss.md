@@ -18,7 +18,7 @@
 
 | 名称 | 地标id | 类型 | 出没生物 | 备注 |
 | ---- | ---- | ---- | ---- | ---- |
-| 帐篷的篝火 | Tent_and_campfire | 出生点 |  | - |
+| 帐篷的篝火 | Tent_and_campfire | 出生点 | - | - |
 | 幽灵海盗船 | Ghost_pirate_ship | BOSS区域 | 幽灵船长-死胡子、幽灵船员 | BOSS每15分钟刷新 |
 | 冰封湖 | Iced_lake | BOSS区域 | 冰封雪怪 | BOSS每15分钟刷新 |
 | 哥布林营地 | Goblin_camp | BOSS区域 | 剑圣库尔、哥布林小兵 | BOSS每15分钟刷新 |
