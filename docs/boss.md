@@ -145,7 +145,7 @@
 
 <summary><font color=green><b>🧷 点击展开，查看完整介绍</b></font></summary>
 
-![](pics/boss/goblin_boss.png)
+![](pics/boss/giant_turtle.png)
 > 幽灵？僵尸？此间存留的，只有无尽的死寂……
  
 生命值：8000
