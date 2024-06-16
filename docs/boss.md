@@ -10,6 +10,30 @@
 
 ![rpg地图](pics/boss/rpg_map.jpg)
 
+副本服中的地标可在左上角的标记点中查看，同时也会在地图中显示边框
+
+### 地标简介：
+
+| 名称 | 地标id | 类型 | 出没生物 | 备注 |
+| ---- | ---- | ---- | ---- | ---- |
+| 帐篷的篝火 | Tent_and_campfire | 出生点 |  | - |
+| 幽灵海盗船 | Ghost_pirate_ship | BOSS区域 | 幽灵船长-死胡子、幽灵船员 | BOSS每15分钟刷新 |
+| 冰封湖 | Iced_lake | BOSS区域 | 冰封雪怪 | BOSS每15分钟刷新 |
+| 哥布林营地 | Goblin_camp | BOSS区域 | 剑圣库尔、哥布林小兵 | BOSS每15分钟刷新 |
+| 幽灵海盗船 | Ghost_pirate_ship | BOSS区域 | 幽灵船长-死胡子、幽灵船员 | BOSS每15分钟刷新 |
+| 海龟岛 | Turtle_island | BOSS区域 | 巨型海龟、小海龟、椰子树 | BOSS每15分钟刷新 |
+| 沙漠绿洲1 | Desert_oasis1 | 精英怪区域 | 巨型螃蟹 | 精英怪每10分钟刷新 |
+| 沙漠绿洲2 | Desert_oasis2 | 精英怪区域 | 巨型螃蟹 | 精英怪每10分钟刷新 |
+| 沙漠绿洲3 | Desert_oasis3 | 精英怪区域 | 巨型螃蟹 | 精英怪每10分钟刷新 |
+| 死寂的村庄 | dead_village | 结构 | 僵尸农民、僵尸屠夫、僵尸铁匠 | - |
+| 小鸡神殿 | chicken_temple | 结构 | 轰炸机、小飞鸡、鸡 | 生物提升到30级 |
+| 白石山 | white_stone_mountain | 野外 | 轰炸机、小飞鸡、鸡、石头傀儡 | - |
+| 青草森林 | green_grass_forest | 野外 | 大青草史莱姆、青草史莱姆、小青草史莱姆、巨型蜗牛、萤火虫、萤火虫群 | - |
+| 野猪森林 | boar_forest | 野外 | 凶猛野猪、猪、盗猎者、盗猎头目 | - |
+
+
+![rpg地图地标](pics/boss/rpg_map_makers.png)
+
 ## 👿 BOSS介绍 :id=boss
 > [!tip]
 > BOSS讨伐战仅需对BOSS造成伤害即可在BOSS被击败后随机获得战利品(~~正义群殴~~)，期间不可前往其他世界，玩家死亡亦会重置其造成伤害
