@@ -1,4 +1,6 @@
-## 帮助宣传
+## 帮助宣传 :id=advertise
+>[!note]
+> + 特别感谢玩家制作视频宣传,你可以在b站或者本页面的[视频记录](videos.md)里看见他们的视频
 
 + 你可以 **向你的朋友宣传** 我们的服务器，有机会的话和他们一起在服务器玩。
 
@@ -6,7 +8,7 @@
 
 + <font color=red>请不要跑到其他服去宣传我们服，这种挖墙脚的方式只会拉低别人的印象分</font>。
 
-## 帮忙监督
+## 帮忙监督 :id=supervise
 
 + 如果发现了普通的Bug，请反馈在[gitee](https://gitee.com/neverlag/drip-drop-server/issues)上。
 
@@ -16,12 +18,12 @@
 
 + 如果发现玩家之间发生了很严重的争吵，也请立刻通知QQ群`286338133`的管理员 `neverlag`。
 
-## 帮忙制作拓展物品
+## 帮忙制作拓展物品 :id=makeitemadder
 
 > Itemsadder插件
 
 >[!note]
-> + 特别感谢@Dangoburn帮忙制作拓展物品/模型/贴图
+> + 特别感谢@Dangoburn和@SparkringCreepr帮忙制作拓展物品/模型/贴图
 
 你需要掌握材质包的结构，CustomModelData值，绘制像素图片，利用[Blockbench](https://www.blockbench.net/downloads)建模。
 
@@ -42,7 +44,7 @@
 > MythicMobs插件
 
 >[!note]
-> + 特别感谢@Sparkringcreepr帮忙制作rpg建筑/内容
+> + 特别感谢@Dangoburn,@Sparkringcreepr,@momo0_0,@Yumekui_帮忙制作rpg建筑/内容
 
 你需要阅读[MythicMobs的Wiki](https://mineplugin.org/MythicMobs)，
 
@@ -59,7 +61,7 @@
 ## 帮助完善Wiki
 
 >[!note]
-> + 特别感谢@vosglenpurink帮忙完善wiki
+> + 特别感谢@vosglenpurink和@evercold帮忙完善wiki
 
 > Markdown语言
 
@@ -70,6 +72,8 @@
 帮助我们修正Wiki中存在的错误或过期内容，或是补充更多内容。
 
 ## 提供技术支持
+>[!note]
+> + 特别感谢@Dell_g3帮忙制作的插件
 
 > 服务器插件开发
 
