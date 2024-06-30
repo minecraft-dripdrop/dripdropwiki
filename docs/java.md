@@ -1,13 +1,13 @@
 ## ✅ Java版本选择 :id=choose-java
 
-| Minecraft版本(Java版)                      | 最低启动版本                  | 推荐安装的Java版本              |
-| :------------------------- | :------------------------- | :--------------------- |
-| 1.7- |8 | 8              |
-| 1.8~1.15 |8 | 11                 |
-| 1.16 |11 | 16              |
-| 1.17~1.19 |13 | 17      |
-| 1.20 |17 | 17     |
-| 1.21(即将到来) |21 | 未知       |
+| Minecraft版本(Java版)                      | 最低启动版本                  | 推荐安装的Java版本 |
+| :------------------------- | :------------------------- |:------------|
+| 1.7- |8 | 8           |
+| 1.8~1.15 |8 | 11          |
+| 1.16 |11 | 16          |
+| 1.17~1.19 |13 | 17          |
+| 1.20 |17 | 17          |
+| 1.21 |21 | 21           |
 
 ## ⬇️ 下载Java :id=download-java
 
@@ -16,19 +16,21 @@
 > + 你已经安装了对应版本的Java
 > + 你决定使用官方启动器(内置Java环境所以不用安装)进行游戏
 
-对于不使用官方启动器的玩家而言，我们推荐从以下来源(点击跳转链接)下载Java安装包：
+对于不使用官方启动器的玩家而言，我们推荐从以下公开的可信来源当中下载Java安装包。不同下载来源的JDK实际上大同小异，对玩家而言并没有太多差别，因此只要选择**任意一个便于玩家自己顺利访问的站点**进行下载即可：
 
-+ [<font color=green>Oracle JDK 17（只有Java 17）</font>](https://www.oracle.com/java/technologies/javase-downloads.html)
-+ [<font color=green>Zulu JDK（从Java 8到最新版本都有）</font>](https://www.azul.com/downloads/?package=jdk#download-openjdk)
-+ [<font color=green>Microsoft OpenJDK（从Java 8到最新版本都有）</font>](https://docs.microsoft.com/zh-cn/java/openjdk/download)
-
-
+|      下载来源       | 访问链接 | 备注说明                                             |
+|:---------------:|:-----|:-------------------------------------------------|
+|     Oracle      |https://www.oracle.com/java/technologies/java-se-glance.html| Oracle 的 JDK 下载，下载 Java 17 以下的 JDK 需要登录账号，商业使用受限 |
+|    Azul Zulu    |https://www.azul.com/downloads/#downloads-table-zulu| Azul 提供的 OpenJDK                                 |
+|    Microsoft    |https://learn.microsoft.com/zh-cn/java/openjdk/download| 微软提供的 OpenJDK                                    |
+|     Amazon      |https://aws.amazon.com/cn/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc| 亚马逊提供的 OpenJDK                                   |
+| Eclipse Temurin |https://adoptium.net/temurin/releases/| Eclipse 基金会提供的 OpenJDK                           |
 
 ## 🔧 安装Java :id=install-java
 
 > [!warning] 
-> + 强烈不建议在非oracle官网的其他网站上、下载和使用来源不明的Java安装包，此举可能会为你的计算机带来安全风险。
-> + 请注意，<font color=red>请尽量使用当前游戏版本所要求的Java版本</font>。既不要使用过于老旧的版本，也不需要使用太新的版本（官方都还没适配支持），否则可能会无法正常启动游戏。
+> + 强烈不建议下载和使用来源不明的Java安装包，此举可能会为你的计算机带来安全风险。
+> + 请注意，<font color=red>请务必使用适合当前游戏版本的Java版本</font>。既不要使用过于老旧的版本，也不需要使用太新的版本（官方都还没适配支持），否则可能会无法正常启动游戏。
 + **Windows平台玩家** 
 
 1.从群文件下载得到 `.exe` 格式的文件之后，双击打开它（如果提示安全警告就选择 **是**）。
