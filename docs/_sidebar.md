@@ -23,7 +23,7 @@
   * [🏷️ 玩家称号](tags.md)
   * [📝 特殊文本](text.md)
   * [🧧 分享红包](redpacket.md)
-  * [🌏 拍卖行](auction.md)
+  * [🌏 全球市场](auction.md)
   * [🧰 箱子商店](quickshop.md)
   * [🌈 特效插件](procosmetics.md)
   * [🔍 破坏查询](coreprotect.md)

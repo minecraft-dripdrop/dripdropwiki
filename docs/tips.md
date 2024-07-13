@@ -1,21 +1,27 @@
 >[!Note]
 >更多游玩技巧，可以在游戏聊天栏中输入执行`/tips`指令进行查看！
 
+## 聊天复读 :id=chat-repeat
+
+点击别人发的消息即可复读
+
+![聊天复读](pics/tips/chatrepeat.png)
+
 ## 一键整理 :id=inventory-sort
 
 你可以在箱子或者背包里用鼠标左键双击 `空格子` 进行一键整理。
 
-![一键整理](pics/sort.png)
+![一键整理](pics/tips/sort.png)
 
 ## 聊天展示 :id=chat-show
 
 1. **你可以输入 `[item]` 将你手持物品展示到聊天框里**
 
-    ![聊天展示物品](pics/chatitem.png)
+    ![聊天展示物品](pics/tips/chatitem.png)
 
     同时你可以在聊天框里点击在这个 `[生鸡肉 ×1]` 打开页面查看详情。
 
-    ![查看聊天框里的物品](pics/itemshow.png)
+    ![查看聊天框里的物品](pics/tips/itemshow.png)
 
 2. **你可以输入 `[/<指令>]` 来告诉其他玩家指令**
 
@@ -23,41 +29,41 @@
 
     同时你可以在聊天框里点击这个指令 来直接输入指令。
 
-    ![聊天展示指令](pics/chatcommand.png)
+    ![聊天展示指令](pics/tips/chatcommand.png)
 
 3. **你可以输入 `[money]` 来告诉其他玩家你的钱包**
 
     同时你可以在聊天框里将鼠标放在钱包上就能查看有多少钱。
 
-    ![聊天展示钱包](pics/chatmoney.png)
+    ![聊天展示钱包](pics/tips/chatmoney.png)
 
     你可以在聊天框里点击这个 `[neverlag的钱包]` 则会自动输入转账给该玩家的指令 `/cmi pay neverlag`。
 
 4. **你可以输入 `[inv]` 来展示你的背包**
 
-    ![聊天展示背包](pics/chatinv.png)
+    ![聊天展示背包](pics/tips/chatinv.png)
 
     同时你可以在聊天框里点击在这个 `[neverlag的背包]` 打开页面进行更具体的查看。
 
-    ![聊天展示的背包具体查看](pics/showinv.png)
+    ![聊天展示的背包具体查看](pics/tips/showinv.png)
 
 5. **你可以输入 `[ender]` 来展示你的末影箱**
 
-    ![聊天展示末影箱](pics/chatender.png)
+    ![聊天展示末影箱](pics/tips/chatender.png)
 
     同时你可以在聊天框里点击在这个 `[neverlag的背包]` 打开页面进行更具体的查看。
 
-    ![聊天展示的末影箱具体查看](pics/showender.png)
+    ![聊天展示的末影箱具体查看](pics/tips/showender.png)
 
 ## 不可交互的盔甲架 :id=inactive-armorstand
 
 服务器安装有CMI插件，因此部分玩家可能会在不经意间通过`shift + 鼠标右键`的方式点击到盔甲架，然后打开类似下图的配置页面：
 
-![](pics/tips.png)
+![](pics/tips/armorstand.png)
 
 注意上图当中的弹出描述的配置项，**默认情况下是<font color=red>红色</font>的，代表盔甲架可以交互，比如放上盔甲或是破坏掉。**点击之后，该选项就变成了<font color=green>绿色</font>，表示**不可交互**，如下图所示：
 
-![](pics/tips2.png)
+![](pics/tips/armorstand2.png)
 
 一旦盔甲架被设置为不可交互，任何玩家（包括OP）都不能破坏掉该盔甲架，或是放上、取下任意盔甲，也不能再次通过`shift + 鼠标右键`的方式打开盔甲架的配置选项！如果玩家对这些盔甲架的设置选项不是非常熟悉，强烈建议不要随意修改，以免带来损失。
 
