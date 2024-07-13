@@ -2,9 +2,9 @@
 >[!note]
 > + 特别感谢玩家制作视频宣传,你可以在b站或者本页面的[视频记录](videos.md)里看见他们的视频
 
-+ 你可以 **向你的朋友宣传** 我们的服务器，有机会的话和他们一起在服务器玩。
++ 你可以 **向你的朋友宣传** 我们的服务器，有机会的话和他们一起在服务器玩；
 
-+ 你可以在b站发布服务器内录制的视频，标题或简介中带上【DripDrop】，让更多人了解我们服
++ 你可以在b站发布服务器内录制的视频，标题或简介中带上【DripDrop】，让更多人了解我们服；
 
 + <font color=red>请不要跑到其他服去宣传我们服，这种挖墙脚的方式只会拉低别人的印象分</font>。
 
@@ -77,9 +77,9 @@
 
 > 服务器插件开发
 
-Java版Minecraft在插件开发方面有着独特的开放性。如果你对服务器插件开发感兴趣，掌握一定的开发技术，并且有意向为DripDrop提供有趣有用的扩展功能，那么欢迎你加入开发者的行列。插件可以使用[Java](https://www.liaoxuefeng.com/wiki/1252599548343744)或[Kotlin](https://www.kotlincn.net/docs/reference/basic-syntax.html)语言进行开发，你需要了解这些语言和主流的开发工具[IntelliJ IDEA](https://www.jetbrains.com/idea/)。如果需要了解插件开发，请移步[这里](https://plgdev.xuogroup.top/#/README)。
+Java版Minecraft在插件开发方面有着独特的开放性。如果你对服务器插件开发感兴趣，掌握一定的开发技术，并且有意向为DripDrop提供有趣有用的扩展功能，那么欢迎你加入开发者的行列。插件可以使用[Java](https://www.liaoxuefeng.com/wiki/1252599548343744)或[Kotlin](https://book.kotlincn.net/text/d-basics.html)语言进行开发，你需要了解这些语言和主流的开发工具[IntelliJ IDEA](https://www.jetbrains.com/idea/)。如果需要了解插件开发，请移步[这里](https://mouse0w0.github.io/MinecraftDeveloperGuide/)。
 
-目前本服有以下开源项目，自主开发或基于其他开发者开源的项目代码进行**二次开发和自主维护**，并严格遵守[GPLv3.0](https://www.gnu.org/licenses/quick-guide-gplv3.html)等开源许可证：
+目前本服有以下开源项目，自主开发或基于其他开发者开源的项目代码进行**二次开发和自主维护**，并严格遵守[GPL v3.0](https://www.gnu.org/licenses/quick-guide-gplv3.html)等开源许可证：
 
 + [AllMusic_DripDrop_Server](https://github.com/DripDrop-Minecraft/AllMusic_DripDrop_Server)
 + [AllMusic_DripDrop_Client](https://github.com/DripDrop-Minecraft/AllMusic_DripDrop_Client)
