@@ -1,57 +1,97 @@
-## 绑定MCBBS账号
+## 注册并登陆minebbs账号 :id=register-and-login
     
-1. **先打开顶帖菜单，输入指令 `/top`**
+**1.你首先需要注册一个Minebbs的账号并登陆**
 
-![顶顶贴菜单界面](pics/bbstopper.png)
+打开[Minebbs网站](https://www.minebbs.com/)，点击右上角的【注册】按钮，注册完毕后再登陆就行了
 
-点击**头颅**按钮，然后在聊天框里输入你的**论坛ID**，为防止出错，需要输入两次。
+![注册](pics/bbstopper/register.png)
 
-> 💡 论坛ID即为你论坛里的昵称，比如腐竹的就是neverlag。
+~~具体注册过程就不细说了，注册都不会的话，那你就是个笨蛋。~~
 
-<img src="pics/mcbbs.png" class="size"/>
+## 在道具工坊购买顶帖道具 :id=buy-topcard
 
-## 获取服务器宣传贴链接
+**2.点击这里的道具工坊，进入购买页面**
 
-1. **点击 <img src="pics/compass.png" class="icon"/> `指南针` 获取服务器宣传贴链接**，然后在聊天框里点击链接，选择**是**，接着打开网页。
+![道具工坊](pics/bbstopper/daojugongfang.png)
 
-2. 目前我们服务器的宣传贴链接为[`https://www.mcbbs.net/thread-1129320-1-1.html`](https://www.mcbbs.net/thread-1129320-1-1.html)。
+**3.再点击手动顶帖卡旁的【50金粒】**
 
-## 使用道具 - 服务器提升卡
+![点击金粒](pics/bbstopper/dianjijinli.png)
 
-> 💡 服务器提升卡需要花费80金粒购买,而且顶帖需要MCBBS等级大于等于<font color=red>4级</font>。
+**4.再点击弹出来的【加入购物车】**
 
-**将宣传贴拉到最下面**，点击 **使用道具-服务器提升卡**。
+![加入购物车](pics/bbstopper/gouwuche.png)
 
-<img src="pics/dingtie.png" class="size"/><br/>
+**5.这个时候页面会自动刷新一次，点击【查看购物车/付款台】**
 
-<img src="pics/buytop.png" class="size"/><br/>
+![查看购物车](pics/bbstopper/chakangouwuche.png)
 
-<img src="pics/usetop.png" class="size"/>
+**6.在付款台页面，点击【购买】按钮**
 
-## 自动获得奖励
+![点击购买](pics/bbstopper/dianjigoumai.png)
 
-> 💡 一天只能获得一次奖励，如果你一天顶了两次贴，第二天你上线时会自动发放奖励。
 
-![](pics/gettop.png)
+## 部署道具(顶帖) :id=set-topcard
 
-## 常见问题
+**1.你可以在这里打开背包查看你购买的道具**
+
+![背包](pics/bbstopper/beibao.png)
+
+**2.点击手动顶帖卡的【部署】按钮**
+
+![部署](pics/bbstopper/bushu.png)
+
+
+**3.在弹出页面的【主题】中输入我们服宣传贴的链接**
+
++ 在主题中输入我们服务器宣传贴的链接
+
+    `https://www.minebbs.com/threads/1-20-1-dripdrop-1-21-rpg.28172/`
+
+![输入链接](pics/bbstopper/shurulianjie.png)
+
+
+**4.点击【提交】按钮**
+
+![点击提交](pics/bbstopper/dianjitijiao.png)
+
+## 在服务器内领取顶帖奖励 :id=get-reward
+
+**1.在服务器内输入`/minebbstopper open`指令打开页面**
+
+![点击提交](pics/bbstopper/minebbstopper.png)
+
+**2.点击【领取顶帖奖励】**
+
+![点击提交](pics/bbstopper/dianjilingqu.png)
+
+**3.获得奖励**
+
+> 目前奖励是1个传说奖励箱，今后将制作独特且丰厚的顶帖奖励
+
+![奖励提示](pics/bbstopper/jianglitishi.png)
+
+![奖励内容](pics/bbstopper/jianglineirong.png)
+
+
+## 常见问题 :id=common-issue
 
 1. **我为什么没有领取到奖励啊?**
    
-    + 有可能你并没有绑定正确的论坛ID，注意是论坛的名字；
+    + 顶帖奖励需要在20分钟内进行领取
 
-    + 你可能并没有顶帖，只是给我们服务器做了评分；
+    + 你可能并没有顶帖，只是给我们服务器做了评分或留言；
 
-    + 一天只能领取一次顶帖奖励，请等第二天自动发放；
+    + 你可能在部署阶段中输入的链接是错误的，请复制粘贴顶帖链接，不要手动输入
 
-    + 你顶的帖子可能不是我们服的宣传贴，或者是已经过期了的宣传贴。
+    + 你可能在顶帖冷却期间进行了顶帖，这样是无法获得奖励的(但你可以告知管理员给你补发一份奖励)
 
-2. **我论坛ID绑定错误了怎么办?（我论坛改名了怎么办？）**
-   
-    + 你可以点击顶帖菜单里的 **头颅** 重新进行一次绑定。
+2. **我为什么没法顶帖**
 
-3. **我为什么没法顶帖**
+    + 手动顶帖卡购买需要50金粒，每日登陆minebbs即可获得50金粒
 
-    + 论坛等级限制4级及以上。
+3. **为什么顶帖有冷却时间？**
 
-    + 一天只能顶帖3次，你或许已经达到顶帖次数上限。
+    + 因为我们希望将宣传贴尽可能展示在前面几页，较短时间内连续顶帖有点浪费顶帖效果
+
+
