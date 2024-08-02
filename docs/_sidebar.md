@@ -1,4 +1,5 @@
 * **点滴记录**
+  * [📢 宣传内容](advertise.md)
   * [📖 开服故事](story.md)
   * [🎞️ 视频记录](videos.md)
   * [🏝️ 截图留念](photos.md)
